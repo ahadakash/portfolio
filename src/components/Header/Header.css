@@ -1,0 +1,13 @@
+.navbar-bg{
+    background: #3e3e41;    
+}
+.nav-link{
+    font-size: 30px;
+    color: white !important;
+    margin-right: 15px;
+    transition: .3s;
+}
+.nav-link:hover{
+    background-color: rgb(233, 150, 136);
+    border-radius: 5px;
+}

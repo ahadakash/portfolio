@@ -1,0 +1,37 @@
+.banner{
+    color: white;
+    text-align: center;
+    padding: 80px 80px;
+    background: #bcf1a3;  
+}
+.my-name{
+    font-size: 40px;
+    font-weight: 700;
+    color: rgb(230, 47, 47);
+    text-transform: uppercase;
+}
+.resume-btn{
+    border: none;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: bolder;
+    color: black;
+    background: #ecdd09;  
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    transition: .3s;
+}
+.resume-btn:hover{
+    color: white;
+}
+.profile-icon{
+    color: black;
+    font-size: 30px;
+    margin-top: 10px;
+    margin-right: 15px;
+}
+.font{
+    color: rgb(100, 93, 93);
+}
